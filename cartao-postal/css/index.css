@@ -1,0 +1,60 @@
+* {
+    font-family: 'Roboto Mono', monospace !important;
+}
+
+.titulo-principal {
+    font-weight: bold;
+    font-size: 2em;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.mt {
+    margin-top: 1em;
+}
+
+.descricao {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.ml {
+    margin-left: 0.5em;
+}
+
+.mb {
+    margin-bottom: 1em;
+}
+
+.rodape {
+    width: 92%;
+    text-align: center;
+    position: fixed;
+    margin-top: 50vh;
+}
+
+.imagem-card {
+    object-fit: cover;
+    width: 17.9rem;
+    height: 15rem;
+}
+
+.div-cards {
+    display: flex;
+    justify-content: center;
+}
+
+.div-imagem {
+    width: 20rem;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.div-card {
+    display: flex;
+    justify-content: center;
+}
